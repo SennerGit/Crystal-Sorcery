@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": {
+      "text": "Resources for Crystal Sorcery"
+    },
+    "forge:client_resources_pack_format": 2147483647,
+    "pack_format": 15
+  }
+}
